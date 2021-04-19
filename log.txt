@@ -1,7 +1,7 @@
 {"version_code":9999999999,"content":"
-<p>Titulo</p>
+<p>ATUALIZAÇÃO</p>
 
 
-<l>Lista de cambios</li>
+<l>Lista de mudanças</li>
 ","url":"https://youtube.com/channel/UCirHgu_Hw_UGLbdpd926QWg"
 }

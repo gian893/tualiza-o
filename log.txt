@@ -1,7 +1,7 @@
 {"version_code":9999999999,"content":"
-<p>ATUALIZAÇÃO</p>
+<p>AAtualização mini</p>
 
 
-<l>Teste JANELINHA</li>
+<l>Nova ATUALIZAÇÃO beta/li>
 ","url":"https://youtu.be/sAaVSnPiU8Y"
 }
